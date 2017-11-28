@@ -1,8 +1,7 @@
 title: AGF
-description: "Scripts or Descriptions for Chapters in the \"Age and Growth of Fishes: Principles and Techniques\" Book"
 google_analytics: 
-show_downloads: true
-theme: jekyll-theme-slate
+show_downloads: false
+theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
